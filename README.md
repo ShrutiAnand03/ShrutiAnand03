@@ -2,7 +2,7 @@
 
 I'm a Software Development Engineer passionate about building scalable applications and solving complex problems.
 
-My journey in software engineering has been driven by curiosity and continuous learning. I enjoy exploring new technologies, strengthening my problem-solving skills through Data Structures & Algorithms, and building projects that help me grow as an engineer.
+I enjoy turning ideas into software and learning the technologies behind reliable, scalable applications. My goal is to build systems that are simple, efficient, and easy to maintain.
 
 "Always learning. Always building." 🚀
 
