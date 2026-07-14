@@ -16,8 +16,7 @@ I enjoy turning ideas into software and learning the technologies behind reliabl
 * **Currently Exploring:** System Design, Distributed Systems, Scalable Backend Architecture
 
 ## 📫 Connect with Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/shruti-anand-686480216/
+[LinkedIn](https://www.linkedin.com/in/shruti-anand-68648021)
 
 
 
