@@ -15,6 +15,11 @@ I enjoy turning ideas into software and learning the technologies behind reliabl
 * **Tools & Platforms:** Docker, Git, GitHub, Linux
 * **Currently Exploring:** System Design, Distributed Systems, Scalable Backend Architecture
 
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/shruti-anand-686480216/
+
+
 
 <!--
 **ShrutiAnand03/ShrutiAnand03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
